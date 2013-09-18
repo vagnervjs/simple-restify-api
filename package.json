@@ -1,0 +1,19 @@
+{
+  "name": "simple-restify-api",
+  "version": "0.0.1",
+  "description": "A micro API using nodejs, restify and mongoose",
+  "homepage": "http://vagnersantana.com/gruntbp",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vagnervjs/simple-restify-api"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "restify": "2.6.0",
+    "mongoose": "3.6.19",
+    "mocha": "1.13.0"
+  }
+}
