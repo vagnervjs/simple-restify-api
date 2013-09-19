@@ -2,7 +2,7 @@
   "name": "simple-restify-api",
   "version": "0.0.1",
   "description": "A micro API using nodejs, restify and mongoose",
-  "homepage": "http://vagnersantana.com/gruntbp",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "http://github.com/vagnervjs/simple-restify-api"
@@ -13,7 +13,27 @@
   },
   "dependencies": {
     "restify": "2.6.0",
-    "mongoose": "3.6.19",
-    "mocha": "1.13.0"
-  }
+    "mongoose": "3.6.19"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "b90f6857cce38840ef25896c0a91c70228e72a78",
+  "bugs": {
+    "url": "https://github.com/vagnervjs/simple-restify-api/issues"
+  },
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api",
+    "restify"
+  ],
+  "author": "Vagner Santana",
+  "license": "MIT"
 }
